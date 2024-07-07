@@ -5,4 +5,4 @@ text cleaning, tokenization, and padding. A Bidirectional LSTM model was chosen 
 to capture contextual information from email content in both directions, resulting in 
 improved classification accuracy. The model was evaluated using precision, recall, and F1 
 score metrics, demonstrating its effectiveness in filtering out spam emails.
-1st file contains the training and testing of the model and 2nd contains the loaded model and the output that mail is spam or not spma
+1st file contains the training and testing of the model and 2nd contains the loaded model and the output that mail is spam or not spam
